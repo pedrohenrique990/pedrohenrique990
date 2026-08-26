@@ -1,6 +1,6 @@
 ## Olá! Muito Prazer👋
 
-- 🔭 Atualmente sou estagiário no setor de Gente e Gestão, com foco em dados e endomarketing. Algumas habilidades e ferramentas utilizadas como Canva, Excel, Análise e extração de dados, criação e automação de planilhas e criação de conteúdos para Instagram.
+- 🔭 Atualmente sou estagiário no setor de Gente e Gestão, com foco em dados. Algumas habilidades e ferramentas utilizadas como Excel, Análise e extração de dados, criação e automação de planilhas, Canva e criação de conteúdos para Instagram.
 - 🌱 Estudando Power BI, SQL e Estrutura de Dashbooard interativos.
 
 <div style="display: inline_block"><br> 
