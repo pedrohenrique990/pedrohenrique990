@@ -63,7 +63,7 @@ Me chamo Pedro Henrique, tenho 20 anos e sou formado em Análise e Desenvolvimen
  width="30px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
-/>
+/> 
 
 <br/>
 <br/>
@@ -76,8 +76,9 @@ Me chamo Pedro Henrique, tenho 20 anos e sou formado em Análise e Desenvolvimen
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pedrohenrique990&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=pedrohenrique990&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
+</p>
 
 <img 
    align="left" 
