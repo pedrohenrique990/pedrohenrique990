@@ -4,22 +4,11 @@
 
 Me chamo Pedro Henrique, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pelo Embarque Digital, programa em parceria com a Prefeitura do Recife e o Porto Digital. Atualmente, atuo como Assistente de Gente e Gestão no Grupo Drumattos, onde trabalho com dados, processos, automações e endomarketing. Tenho direcionado minha carreira para a área de dados, com foco em análise de informações, Business Intelligence e automação de processos. Sou apaixonado por tecnologia e estou sempre buscando transformar dados em informações que apoiem decisões e tornem processos mais eficientes.
 
-<p align="left">
-    <a href="https://github.com/pedrohenrique990?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/pedrohenrique990?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/pedrohenrique990?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/pedrohenrique990?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div>
+  <a href="https://www.instagram.com/pedrohrosaa_?igsh=b2Vxc3J5ZXhvbTU%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:pedroatrp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-rosa-46a53a29b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
