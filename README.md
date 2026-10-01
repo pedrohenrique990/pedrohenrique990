@@ -78,13 +78,12 @@ Me chamo Pedro Henrique, tenho 20 anos e sou formado em Análise e Desenvolvimen
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=pedrohenrique990&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-</p>
 
 <img 
-   align="left" 
-   alt="GitHub Stats" 
-   height="200" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique990&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+ align="left" 
+ alt="GitHub Stats" 
+ height="200" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique990&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
 </p>
