@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pedro Henrique
 
-**`Data Analysis`** | **`Automação`**
+**`Data Analysis`** | **`Business Intelligence & Automação`**
 
 Me chamo Pedro Henrique, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pelo Embarque Digital (Prefeitura do Recife + Porto Digital). Atualmente, atuo no Grupo Drumattos como Assistente de Gente e Gestão, focado em análise de dados, BI, automações e otimização de processos corporativos. Tenho direcionado minha carreira para a área de dados, transformando bases complexas em relatórios e automações estratégicas para apoio na tomada de decisão.
 
@@ -18,7 +18,7 @@ Me chamo Pedro Henrique, tenho 20 anos e sou formado em Análise e Desenvolvimen
 <p>
   <img alt="Power BI" title="Power BI" width="35px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
   <img alt="Excel" title="Microsoft Excel" width="35px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel.svg" />
-  <img alt="Power Automate" title="Power Automate" width="35px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerautomate/powerautomate-original.svg" />
+  <img alt="Power Automate" title="Power Automate" width="35px" style="padding-right: 10px;" src="https://api.iconify.design/logos:microsoft-power-automate.svg" />
   <img alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="SQLite" title="SQLite / SQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </p>
@@ -26,7 +26,7 @@ Me chamo Pedro Henrique, tenho 20 anos e sou formado em Análise e Desenvolvimen
 #### 💻 Desenvolvimento & Utilitários
 <p>
   <img alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://api.iconify.design/simple-icons:github.svg?color=white" />
   <img alt="HTML5" title="HTML5" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
