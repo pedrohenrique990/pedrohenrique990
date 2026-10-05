@@ -14,11 +14,6 @@ Me chamo Pedro Henrique, tenho 20 anos e sou formado em Análise e Desenvolvimen
 
 ### 🛠️ Principais Ferramentas & Tecnologias
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%" align="left" style="border: none;">
-
 #### 📊 Dados, BI & Automação
 <p>
   <img alt="Power BI" title="Power BI" height="40px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
@@ -34,13 +29,6 @@ Me chamo Pedro Henrique, tenho 20 anos e sou formado em Análise e Desenvolvimen
   <img alt="HTML5" title="HTML5" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p>
-      </td>
-      <td align="center" valign="middle" width="50%" style="border: none;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280px" alt="Coding Laptop Animation" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
